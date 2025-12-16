@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+chatbot/
+venv/
+
+# Cloudflare
+.cloudflared/
+
+# Environment variables
+.env
+
+# OS / Editor
+.vscode/
+.DS_Store
+.txt
+
+app.py
+gpt.py    
+#gpt.py  ia an llama3 model just for local testing not used here
