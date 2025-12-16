@@ -20,3 +20,4 @@ venv/
 app.py
 gpt.py    
 #gpt.py  ia an llama3 model just for local testing not used here
+.bat
